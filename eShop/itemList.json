@@ -1,0 +1,50 @@
+[
+    {
+        "model": "myapp.item",
+        "pk": 1,
+        "fields": {
+            "name": "Carotte 1kg",
+            "description": "Les carottes biologiques que nous vous proposons sont cultivées avec soin dans des conditions respectueuses de l'environnement. Issues de l'agriculture biologique, ces carottes sont exemptes de pesticides et d'engrais chimiques. Leur goût frais et croquant est le résultat d'une culture responsable et durable. Les carottes bio sont riches en nutriments essentiels, offrant une source naturelle de vitamines et de minéraux pour une alimentation saine.",
+            "category": "vegetable",
+            "quantity": 50,
+            "price": "2.99",
+            "image": "frontend/images/img-pro-01.jpg"
+        }
+    },
+    {
+        "model": "myapp.item",
+        "pk": 2,
+        "fields": {
+            "name": "Tomate 1kg",
+            "description": "Nos tomates cœur de bœuf biologiques sont une délicieuse variété gorgée de saveur et de caractère. Cultivées de manière biologique, ces tomates sont nourries avec des ingrédients naturels, ce qui se reflète dans leur goût authentique et intense. Leur chair juteuse et leur forme distinctive en cœur en font l'ingrédient idéal pour les salades, les sauces et les plats cuisinés. Optez pour la fraîcheur et la qualité avec nos tomates cœur de bœuf bio.",
+            "category": "fruit",
+            "quantity": 50,
+            "price": "4.99",
+            "image": "frontend/images/img-pro-02.jpg"
+        }
+    },
+    {
+        "model": "myapp.item",
+        "pk": 3,
+        "fields": {
+            "name": "Raisin 0.5kg",
+            "description": "Notre raisin blanc, issu de l'agriculture biologique, est une explosion de saveurs sucrées et rafraîchissantes. Cultivé de manière responsable, chaque grappe de raisin est le résultat d'un processus de culture naturel et respectueux de l'environnement. Les raisins blancs biologiques sont riches en antioxydants, en vitamines et en minéraux, faisant d'eux une option saine et délicieuse pour les collations ou les desserts. Découvrez la pureté du goût naturel avec nos raisins blancs biologiques.",
+            "category": "fruit",
+            "quantity": 20,
+            "price": "6.99",
+            "image": "frontend/images/img-pro-03.jpg"
+        }
+    },
+    {
+        "model": "myapp.item",
+        "pk": 4,
+        "fields": {
+            "name": "Papaye 1pc",
+            "description": "La papaye biologique que nous proposons est une explosion de saveurs exotiques et sucrées. Cultivée de manière biologique, cette délicieuse fruit offre une chair tendre et juteuse. La papaye est également riche en vitamines, en enzymes digestives et en fibres, faisant d'elle un choix nutritif pour une alimentation équilibrée. Savourez la fraîcheur tropicale avec notre papaye biologique, cultivée avec soin pour une expérience gustative inégalée.",
+            "category": "fruit",
+            "quantity": 15,
+            "price": "5.99",
+            "image": "frontend/images/img-pro-04.jpg"
+        }
+    }
+]
